@@ -45,15 +45,6 @@ Reinventarme con **energía, foco y actitud**. Estoy buscando una **primera opor
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagui395&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagui395&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 ¿Hablamos?
 
