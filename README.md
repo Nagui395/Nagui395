@@ -1,50 +1,47 @@
-<h1 align="center">¡Hola! 👋 Soy Natalia</h1>
+# ¡Hola! 👋 Soy Natalia
 
-<p align="center">
-  Desarrolladora Backend en formación | Ex-asesora fiscal reinventada | Apasionada por construir soluciones útiles 💡
-</p>
+**Desarrolladora Backend | Background en asesoría fiscal y administración | Apasionada por construir soluciones útiles 💡**
 
 ---
 
-### 💻 Sobre mí
+## ⚙️ Sobre mí
 
-Actualmente me estoy formando como **desarrolladora backend** en un bootcamp intensivo, trabajando con tecnologías como **Java**, **Spring Boot**, **SQL**, **Git** y **GitHub**. Además, estoy ampliando mis habilidades en el área de **frontend** y **diseño web**, explorando **HTML**, **CSS**, **JavaScript** y principios de diseño centrados en la experiencia de usuario.
+Soy desarrolladora backend con experiencia en **Java**, **Spring Boot**, **SQL**, **Git** y **GitHub**, orientada a crear aplicaciones eficientes, escalables y bien estructuradas.  
 
-Muy pronto comenzaré mis **prácticas en empresa**, donde podré aplicar en un entorno real todo lo aprendido y seguir creciendo como profesional.
+También cuento con conocimientos en **frontend** (**HTML**, **CSS**, **JavaScript**) y en **diseño web**, lo que me permite colaborar de manera integral en el ciclo de desarrollo.  
 
----
-
-### 🧠 De la asesoría fiscal al desarrollo
-
-Mi experiencia previa en **asesoría fiscal** y **administración de empresas** me proporciona una base sólida en **procesos de negocio** y **gestión**, algo que me ayuda a entender mejor las necesidades reales de las aplicaciones empresariales y financieras.
-
-Esta visión la quiero aportar al mundo tech: crear herramientas útiles, funcionales y alineadas con las necesidades reales de las personas y empresas.
+Mi formación en el área empresarial me brinda una visión más amplia para comprender procesos, necesidades del negocio y aportar soluciones tecnológicas alineadas a los objetivos estratégicos. Actualmente me encuentro aplicando y ampliando estas habilidades en entornos reales.
 
 ---
 
-### 🚀 ¿Qué me mueve?
+## 💼 De la asesoría fiscal al desarrollo
 
-Reinventarme con **energía, foco y actitud**. Estoy buscando una **primera oportunidad en IT**, donde crecer, colaborar y formar parte de un equipo con visión y ganas de construir productos con propósito.
-
----
-
-### 🔧 Tecnologías que manejo
-
-- **Backend:** Java, Spring Boot, SQL  
-- **Frontend & Diseño web:** HTML, CSS, JavaScript (básico), diseño centrado en el usuario  
-- **Herramientas:** Git, GitHub, IntelliJ IDEA, VS Code
+Mi experiencia en **asesoría fiscal y administración de empresas** me aporta una perspectiva práctica de los procesos de negocio y la toma de decisiones. Esta visión me ayuda a crear soluciones tecnológicas **prácticas, escalables y alineadas a las necesidades reales de las personas y las organizaciones**.
 
 ---
 
-### 🎯 Mis valores
+## 🚀 ¿Qué me mueve?
 
-✨ Compromiso  
-📚 Aprendizaje constante  
-🔍 Claridad  
-😄 Actitud positiva  
+Me motiva transformar ideas en herramientas útiles. Disfruto diseñar y construir aplicaciones que sean **funcionales, mantenibles y orientadas a resolver necesidades reales**, siempre con la energía y actitud de seguir creciendo como profesional en el mundo IT.
 
 ---
 
+## 🛠️ Tecnologías que manejo
+
+- **Backend**: Java, Spring Boot, SQL  
+- **Frontend & Diseño web**: HTML, CSS, JavaScript (básico), diseño centrado en el usuario  
+- **Herramientas**: Git, GitHub, IntelliJ IDEA, VS Code  
+
+---
+
+## 🎯 Mis valores
+
+✨ **Compromiso** – responsabilidad y calidad en cada proyecto.  
+📚 **Aprendizaje constante** – siempre abierta a nuevas tecnologías y retos.  
+🔍 **Claridad** – comunicar y documentar de forma sencilla y ordenada.  
+🌟 **Actitud positiva** – energía y motivación para sumar al equipo.  
+
+---
 
 ### 📫 ¿Hablamos?
 
